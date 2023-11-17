@@ -1,0 +1,1 @@
+If you're having problems and want to revert back the changes you made, restart your computer in safe mode (WITHOUT NETWORKING!!!!) and run the script, if that doesn't work, still in safe mode, place the "host" file in the folder the "host" file is on, usually in C:\Windows\System32\drivers\etc.
