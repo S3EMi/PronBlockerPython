@@ -35,7 +35,7 @@ def closeFiles():
     print("\nFinished closing files!")
 
 def main():
-    print("--- Welcome to PronBlocker! You're one step closer to end fapping!---")
+    print("--- Welcome to PronBlocker! You're one step closer to greatness! ---")
     print("If you want to revert changes, run the 'REVERT CHANGES' file on the folder.")
     input("Make sure that the file is running as admin. Once you have, press any button...")
     checkFile()
